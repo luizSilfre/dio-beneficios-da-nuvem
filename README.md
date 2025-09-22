@@ -11,3 +11,9 @@ No curso **“Benefícios da Nuvem”**, aprendi como a adoção da computação
 Além da teoria, realizei uma prática no **Microsoft Azure**, criando e acessando uma máquina virtual, o que consolidou ainda mais a experiência e mostrou a aplicabilidade dos conceitos.
 
 ---
+## Algumas imagens da experi~encia de criar uma VM:
+![Criação da VM myVMTest01](images/vm-create.jpg)
+![VM myVMTest01 Criada, e pronta para execução](images/vm-created.jpg)
+![Informações de acesso a VM myVMTest01](images/vm-access-info.jpg)
+![Login na VM myVMTest01](images/vm-login.jpg)
+![Execução de comando, via PowerShell, na VM myVMTest01](images/vm-powershell.jpg)
